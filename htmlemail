@@ -1,0 +1,19 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html>
+    <head>
+    </head>
+    <body>
+    <table border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+    <tr>
+    <td style="font-size: 18px; line-height: 28px; font-family: Georgia, serif; color: #111;" width="580">
+    <p style="color: #111111; font-family: Georgia, serif; font-size: 18px;">Hi %FIRSTNAME%<br><br>Just wanted to reach out to thank you for registering for the Etobicoke Downsizing Guide<br><br>You can watch the in-depth guide {at this link here}<br><br>Please find it useful<br><br>PS. I've also attached the list of some of my favourite buildings in Etobicoke <br><br>Best,</p>
+    <br><font color="#111111" face="Georgia, serif" size="4">- Paul<br></font><br><img src="http://www.rockwellproperty.ca/hosted/images/e4/549afcb96b4cbab63f574ff3b687ec/PaulRockwellSignature.png"><br><br><br></td>
+    </tr>
+    </tbody>
+    </table>
+    <div style="font-family: Arial: 9.5px; line-height: 16px;"><br><br><br><br><br><br><br><br></div>
+    <p>%SENDER-INFO-SINGLELINE%</p>
+    <p>· <a href="%UNSUBSCRIBELINK%">Unsubscribe</a></p>
+    </body>
+    </html>
